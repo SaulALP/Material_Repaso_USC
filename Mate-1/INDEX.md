@@ -1,168 +1,206 @@
-# Matemáticas I - Análisis y Álgebra Básica
+# 📚 MATEMÁTICAS I - Ingeniería de Procesos Químicos Industriales
 
-## 📚 Descripción del Curso
+## 🎯 Información General
 
-Este curso cubre los fundamentos del análisis matemático y álgebra lineal básica, correspondiente al primer año del Grado en Matemáticas de la USC. Se enfoca en desarrollar el rigor matemático y las herramientas fundamentales para cursos avanzados.
+**Asignatura**: Matemáticas I  
+**Código**: 17146-16451-11-84156  
+**Créditos ECTS**: 6  
+**Semestre**: Primer semestre  
+**Curso**: 1º  
+**Departamento**: Matemática Aplicada  
+**Centro**: Facultad de Ciencias  
 
-**Duración**: 14 semanas  
-**Nivel**: Primer año universitario  
-**Prerrequisitos**: Matemáticas de Bachillerato
+## 📖 Contenidos Oficiales
 
----
+Según la memoria del Grado en Ingeniería de Procesos Químicos Industriales:
+- **Álgebra lineal**
+- **Geometría** 
+- **Cálculo diferencial e integral**
+- **Estadística y optimización**
 
-## 🗓️ Mapa Semanal → Temas → Objetivos
+## 🗂️ Estructura Temática
 
-| Semana | Tema | Objetivos Principales | Tiempo Est. |
-|--------|------|----------------------|-------------|
-| **01** | [Lenguaje Matemático y Conjuntos](Semana_01_Lenguaje_Matematico_Conjuntos/) | Dominar notación matemática, operaciones con conjuntos, lógica proposicional | 9h |
-| **02** | [Números Reales y Propiedades](Semana_02_Numeros_Reales_Propiedades/) | Comprender la estructura de ℝ, axiomas, propiedades algebraicas | 8h |
-| **03** | [Introducción al Análisis - Límites](Semana_03_Introduccion_Analisis_Limites/) | Definir límites, calcular límites básicos, teoremas fundamentales | 10h |
-| **04** | [Continuidad de Funciones](Semana_04_Continuidad_Funciones/) | Definir continuidad, clasificar discontinuidades, teoremas de continuidad | 9h |
-| **05** | [Derivabilidad - Conceptos](Semana_05_Derivabilidad_Conceptos/) | Definir derivada, reglas de derivación, interpretación geométrica | 10h |
-| **06** | [Aplicaciones de la Derivada](Semana_06_Aplicaciones_Derivada/) | Optimización, teoremas del valor medio, análisis de funciones | 11h |
-| **07** | [Integración Indefinida](Semana_07_Integracion_Indefinida/) | Antiderivadas, técnicas básicas de integración, primitivas | 10h |
-| **08** | [Integración Definida](Semana_08_Integracion_Definida/) | Integral de Riemann, teorema fundamental del cálculo, aplicaciones | 12h |
-| **09** | [Espacios Vectoriales](Semana_09_Espacios_Vectoriales/) | Definir espacios vectoriales, subespacios, dependencia lineal | 9h |
-| **10** | [Cálculo Matricial](Semana_10_Calculo_Matricial/) | Operaciones matriciales, determinantes, sistemas lineales | 10h |
-| **11** | [Topología Euclidiana](Semana_11_Topologia_Euclidiana/) | Métricas, conjuntos abiertos/cerrados, compacidad básica | 8h |
-| **12** | [Probabilidad Básica](Semana_12_Probabilidad_Basica/) | Espacios de probabilidad, variables aleatorias discretas | 7h |
-| **13** | [Estadística Descriptiva](Semana_13_Estadistica_Descriptiva/) | Medidas de tendencia central, dispersión, distribuciones | 6h |
-| **14** | [Repaso e Integración](Semana_14_Repaso_Integracion/) | Síntesis de conceptos, problemas integradores, preparación examen | 8h |
+### 📐 Tema 1: Álgebra Lineal
+**Duración**: 4h expositivas + 1h seminario  
+**Carpeta**: `Tema_01_Algebra_Lineal/`
 
-**Tiempo total estimado**: **137 horas**
-
----
-
-## 🎯 Objetivos Generales del Curso
-
-### Conocimientos
-- **Fundamentos del análisis real**: Límites, continuidad, derivabilidad, integración
-- **Álgebra lineal básica**: Espacios vectoriales, matrices, sistemas lineales
-- **Rigor matemático**: Demostraciones, definiciones precisas, razonamiento lógico
-- **Herramientas computacionales**: Cálculo simbólico y numérico básico
-
-### Habilidades
-- **Resolución de problemas**: Aplicar teoremas y técnicas a problemas concretos
-- **Comunicación matemática**: Expresar ideas matemáticas con claridad y precisión
-- **Pensamiento crítico**: Analizar y evaluar argumentos matemáticos
-- **Conexiones interdisciplinares**: Relacionar conceptos matemáticos con aplicaciones
-
-### Competencias
-- **Abstracción**: Trabajar con conceptos abstractos y generalizaciones
-- **Modelización**: Traducir problemas reales a lenguaje matemático
-- **Tecnología**: Utilizar herramientas computacionales apropiadas
-- **Aprendizaje autónomo**: Desarrollar estrategias de estudio independiente
+**Contenidos**:
+- Espacios vectoriales
+- Matrices y determinantes
+- Sistemas de ecuaciones lineales
+- Valores y vectores propios
+- Aplicaciones en ingeniería química
 
 ---
 
-## 📋 Estructura de Cada Semana
+### 📏 Tema 2: Geometría
+**Duración**: 4h expositivas + 1h seminario  
+**Carpeta**: `Tema_02_Geometria/`
 
-Cada semana contiene:
-
-### 📖 Teoría (`theory/`)
-- Definiciones precisas y teoremas fundamentales
-- Demostraciones detalladas paso a paso
-- Ejemplos ilustrativos y contraejemplos
-- Conexiones con otros temas
-
-### 💻 Práctica (`practice/`)
-- **Ejercicios para resolver**: 3+ problemas graduados en dificultad
-- **Ejercicios resueltos**: 2+ problemas completamente desarrollados
-- **Hoja de respuestas**: Resultados finales para verificación
-
-### 🎯 Extras (`extras/`)
-- Recursos adicionales y ampliaciones
-- Notebooks computacionales (cuando aplique)
-- Aplicaciones prácticas y curiosidades
-- Enlaces a recursos externos
+**Contenidos**:
+- Geometría analítica en el plano
+- Geometría analítica en el espacio
+- Cónicas y cuádricas
+- Transformaciones geométricas
+- Aplicaciones en procesos industriales
 
 ---
 
-## 🔗 Dependencias entre Temas
+### 📈 Tema 3: Cálculo Diferencial
+**Duración**: 8h expositivas + 3h seminario  
+**Carpeta**: `Tema_03_Calculo_Diferencial/`
 
-```mermaid
-graph TD
-    S01[Semana 01: Lenguaje Matemático] --> S02[Semana 02: Números Reales]
-    S01 --> S09[Semana 09: Espacios Vectoriales]
-    S02 --> S03[Semana 03: Límites]
-    S03 --> S04[Semana 04: Continuidad]
-    S04 --> S05[Semana 05: Derivabilidad]
-    S05 --> S06[Semana 06: Aplicaciones Derivada]
-    S06 --> S07[Semana 07: Integración Indefinida]
-    S07 --> S08[Semana 08: Integración Definida]
-    S09 --> S10[Semana 10: Cálculo Matricial]
-    S02 --> S11[Semana 11: Topología]
-    S01 --> S12[Semana 12: Probabilidad]
-    S12 --> S13[Semana 13: Estadística]
-    S08 --> S14[Semana 14: Repaso]
-    S10 --> S14
-```
+**Contenidos**:
+- Límites y continuidad
+- Derivadas y diferenciabilidad
+- Aplicaciones de la derivada
+- Optimización de funciones de una variable
+- Modelado de procesos químicos
 
 ---
 
-## 📊 Distribución Temática
+### ∫ Tema 4: Cálculo Integral
+**Duración**: 7h expositivas + 2h seminario  
+**Carpeta**: `Tema_04_Calculo_Integral/`
 
-| Área | Semanas | Porcentaje | Horas |
-|------|---------|------------|-------|
-| **Análisis Real** | 1-8, 14 | 65% | 89h |
-| **Álgebra Lineal** | 9-10 | 15% | 19h |
-| **Topología Básica** | 11 | 6% | 8h |
-| **Probabilidad/Estadística** | 12-13 | 10% | 13h |
-| **Fundamentos** | 1-2 | 4% | 8h |
-
----
-
-## 🎓 Evaluación y Seguimiento
-
-### Criterios de Evaluación
-- **Comprensión teórica** (40%): Dominio de conceptos y definiciones
-- **Aplicación práctica** (40%): Resolución correcta de ejercicios
-- **Razonamiento matemático** (20%): Justificación y construcción de argumentos
-
-### Indicadores de Progreso
-- [ ] Completar todos los ejercicios para resolver
-- [ ] Verificar respuestas con la hoja de soluciones
-- [ ] Estudiar y comprender los ejercicios resueltos
-- [ ] Revisar la teoría y hacer conexiones entre temas
-- [ ] Explorar recursos adicionales según interés
-
-### Autoevaluación Semanal
-Al final de cada semana, el estudiante debe ser capaz de:
-1. Explicar los conceptos principales en sus propias palabras
-2. Resolver ejercicios similares a los propuestos
-3. Identificar conexiones con temas anteriores
-4. Aplicar los conceptos a situaciones nuevas
+**Contenidos**:
+- Integral indefinida
+- Integral definida
+- Técnicas de integración
+- Aplicaciones del cálculo integral
+- Cálculo de áreas y volúmenes en ingeniería
 
 ---
 
-## 📚 Recursos Complementarios
+### 📊 Tema 5: Estadística Descriptiva
+**Duración**: 8h expositivas + 3h seminario  
+**Carpeta**: `Tema_05_Estadistica_Descriptiva/`
 
-### Bibliografía Básica
-- **Spivak, M.**: "Calculus" - Enfoque riguroso del cálculo
-- **Rudin, W.**: "Principles of Mathematical Analysis" - Análisis real avanzado
-- **Anton, H.**: "Elementary Linear Algebra" - Álgebra lineal aplicada
-- **Apostol, T.M.**: "Mathematical Analysis" - Tratamiento completo
-
-### Herramientas Digitales
-- **Wolfram Alpha**: Verificación de cálculos
-- **GeoGebra**: Visualización de funciones y conceptos geométricos
-- **Python/SciPy**: Cálculo numérico y simbólico
-- **LaTeX**: Redacción de documentos matemáticos
+**Contenidos**:
+- Estadística descriptiva univariable
+- Medidas de centralización y dispersión
+- Variable bidimensional
+- Recta de regresión lineal
+- Análisis de datos en procesos químicos
 
 ---
 
-## ⚠️ Notas Importantes
+### 🎯 Tema 6: Optimización
+**Duración**: 5h expositivas + 2h seminario  
+**Carpeta**: `Tema_06_Optimizacion/`
 
-> **💡 Consejo General**: Este curso requiere dedicación constante. Es fundamental no acumular retrasos y practicar regularmente.
-
-> **🔄 Repaso Continuo**: Los conceptos se construyen unos sobre otros. Repasa regularmente los temas anteriores.
-
-> **🤝 Colaboración**: Aunque el estudio individual es importante, discutir problemas con compañeros enriquece el aprendizaje.
-
-> **📝 Documentación**: Mantén un cuaderno de fórmulas y teoremas importantes para consulta rápida.
+**Contenidos**:
+- Problemas de optimización
+- Métodos de optimización
+- Optimización con restricciones
+- Aplicaciones en ingeniería de procesos
+- Software de optimización
 
 ---
 
-**Fecha de creación**: 2024-11-28  
-**Última actualización**: 2024-11-28  
-**Versión**: 1.0
+### 🔄 Tema 7: Repaso e Integración
+**Duración**: Repaso general  
+**Carpeta**: `Tema_07_Repaso_Integracion/`
+
+**Contenidos**:
+- Síntesis de conceptos
+- Problemas integradores
+- Preparación para Matemáticas II
+- Casos prácticos de ingeniería química
+
+---
+
+## 🎓 Competencias Desarrolladas
+
+### Básicas y Generales
+- **CB1**: Conocimientos en área de estudio con base en educación secundaria
+- **CB5**: Habilidades de aprendizaje para estudios posteriores autónomos
+- **CG3**: Conocimiento en materias básicas y tecnológicas
+
+### Específicas
+- **CE1**: Capacidad para resolución de problemas matemáticos en ingeniería
+  - Aptitud para aplicar álgebra lineal, geometría, cálculo diferencial e integral, estadística y optimización
+
+### Transversales
+- **CT2**: Habilidad para usar aplicaciones informáticas en ingeniería industrial
+- **CT10**: Capacidad para resolución de problemas
+- **CT12**: Capacidad para aprendizaje autónomo
+
+## 🛠️ Metodología
+
+### Docencia Expositiva
+- Clases teóricas con medios audiovisuales
+- Presentación de contenidos fundamentales
+- Base para estudio autónomo
+
+### Seminarios
+- Clases interactivas con resolución de problemas
+- Uso de software matemático
+- Posible uso de aula de informática
+
+### Tutorías
+- Sesiones grupales e individuales
+- Resolución de dudas
+- Seguimiento personalizado
+
+## 📚 Bibliografía Principal
+
+### Básica
+1. **Inmaculada Espejo Miranda** - "Estadística descriptiva y probabilidad" (1ª ed.), Universidad de Cádiz, 2014
+2. **Ron Larson, Robert P. Hostetler, Bruce H. Edwards** - "Cálculo", McGraw Hill, 2006
+3. **David C. Lay** - "Algebra lineal y sus aplicaciones" (4ª ed.), Pearson Educación, 2012
+4. **Eric Steiner** - "Matemáticas para las ciencias aplicadas", Editorial Reverté, 2005
+
+### Complementaria
+5. **Aranda, E.** - "Álgebra lineal con aplicaciones y Python", Editorial Lulu.com, 2016
+6. **Gerald L. Bradley, Karl J. Smith** - "Cálculo", Prentice-Hall, 2000
+7. **Juan de Burgos** - "Cálculo infinitesimal de una variable", McGraw-Hill, 1994
+8. **David Poole** - "Algebra lineal. Una introducción moderna" (3ª ed.), CENGAGE Learning, 2011
+
+## ⏰ Distribución Temporal
+
+**Total**: 36h expositivas + 12h seminarios + 3h tutorías = 51h presenciales  
+**Trabajo personal**: 96h  
+**Total ECTS**: 150h (6 créditos)
+
+| Tema | Horas Expositivas | Horas Seminario | Total |
+|------|-------------------|-----------------|-------|
+| 1. Álgebra Lineal | 4h | 1h | 5h |
+| 2. Geometría | 4h | 1h | 5h |
+| 3. Cálculo Diferencial | 8h | 3h | 11h |
+| 4. Cálculo Integral | 7h | 2h | 9h |
+| 5. Estadística Descriptiva | 8h | 3h | 11h |
+| 6. Optimización | 5h | 2h | 7h |
+| 7. Repaso e Integración | - | - | 3h |
+| **TOTAL** | **36h** | **12h** | **51h** |
+
+## 📋 Sistema de Evaluación
+
+### Primer Período
+- **Actividades de aula (P1)**: 2.5 puntos máximo
+- **Prueba final (P2)**: 7.5 puntos (Opción 1) o 10 puntos (Opción 2)
+
+### Segundo Período (Julio)
+- **Prueba única**: 10 puntos (recupera actividades de aula)
+
+## 🔗 Conexión con Matemáticas II
+
+Esta asignatura proporciona las bases fundamentales para:
+- Geometría diferencial (Mate II)
+- Cálculo multivariable (Mate II)
+- Optimización avanzada (Mate II)
+- Análisis vectorial (Mate II)
+
+---
+
+## 📁 Organización de Carpetas
+
+Cada tema contiene:
+- **`theory/`**: Contenido teórico y conceptual
+- **`practice/`**: Ejercicios y problemas resueltos
+- **`extras/`**: Material complementario y aplicaciones
+
+---
+
+*Última actualización: Noviembre 2025*  
+*Basado en el plan oficial USC 2025/2026*
