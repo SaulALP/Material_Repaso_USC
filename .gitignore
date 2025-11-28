@@ -1,0 +1,127 @@
+# Material de Repaso USC - .gitignore
+
+# Archivos temporales del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*#
+
+# Archivos de configuración local
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de compilación LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+*.nav
+*.snm
+*.vrb
+
+# Archivos de Python (si se añaden notebooks)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Archivos de MATLAB/Octave
+*.asv
+*.m~
+
+# Archivos de Mathematica
+*.nb.bak
+
+# Archivos de datos grandes
+*.csv
+*.xlsx
+*.dat
+*.h5
+*.hdf5
+
+# Archivos de imágenes temporales
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+!docs/images/
+!extras/images/
+
+# Archivos de configuración personal
+config.local.*
+settings.local.*
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de caché
+.cache/
+cache/
+
+# Archivos de sesión
+sessions/
+.sessions/
+
+# Archivos de prueba temporal
+test_*.md
+temp_*.md
+draft_*.md
+
+# Archivos de compilación de documentación
+_build/
+_static/
+_templates/
+
+# Archivos específicos del proyecto
+# (Añadir aquí archivos específicos que no deban incluirse)
+
+# Mantener estructura de carpetas vacías
+!**/theory/.gitkeep
+!**/practice/.gitkeep
+!**/extras/.gitkeep
